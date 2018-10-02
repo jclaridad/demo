@@ -7,7 +7,7 @@ PhysicMaterial:
   m_PrefabInternal: {fileID: 0}
   m_Name: ball physics
   dynamicFriction: 0.6
-  staticFriction: 0.6
+  staticFriction: 0.2
   bounciness: 1
   frictionCombine: 0
   bounceCombine: 0
